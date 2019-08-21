@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Created-By: IntelliJ IDEA
+Built-By: sheldon
+Build-Jdk: 1.8.0_201
+Implementation-Title: jeespring-web
+Implementation-Version: 3.0.0
+Implementation-Vendor-Id: com.jeespring
+Main-Class: ${start-class}
+
